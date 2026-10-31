@@ -4,7 +4,7 @@
   "description": "Spooky Halloween blocks extension featuring procedural theremin pitch-swept sweeps, custom monster sprites, and animated strobe lightning flashes.",
   "files": [
     "README.md",
-    "custom.ts"
+    "main.ts"
   ],
   "testFiles": [
     "test.ts"
