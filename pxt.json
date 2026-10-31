@@ -10,10 +10,11 @@
     "test.ts"
   ],
   "dependencies": {
-    "core": "*"
+    "core": "*",
+    "device": "*"
   },
   "supportedTargets": [
     "arcade"
   ],
-  "preferredEditor": "tsprj",
+  "preferredEditor": "tsprj"
 }
